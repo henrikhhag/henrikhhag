@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:0d1117&height=120&section=header" />
 
-<a href="https://www.linkedin.com/in/henrik-hagerup/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FF3B3B&repeat=false&width=600&lines=Henrik+Hovland+Hagerup" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/henrik-hagerup/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=FF3B3B&repeat=false&center=true&vCenter=true&width=700&height=45&lines=Henrik+Hovland+Hagerup" alt="Typing SVG" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=500&pause=999999&color=94A3B8&center=true&vCenter=true&repeat=false&width=700&height=32&lines=Full-stack+developer+%E2%80%A2+web%2C+mobile+%26+backend" alt="Tagline" />
 
