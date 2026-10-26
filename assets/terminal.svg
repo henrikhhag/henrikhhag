@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 352" width="760" height="352" role="img" aria-label="Henrik Hovland Hagerup, full-stack developer i Ålesund. Bygger henami på web og iOS.">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #c9d1d9; white-space: pre; }
+    .p { fill: #a371f7; font-weight: 600; }
+    .d { fill: #6e7681; }
+    .m { fill: #8b949e; }
+    .b { fill: #f0f6fc; font-weight: 700; }
+    .a { fill: #863bff; font-weight: 700; }
+    .k1 { fill: #79c0ff; } .k2 { fill: #7ee787; } .k3 { fill: #ffa657; } .k4 { fill: #d2a8ff; } .k5 { fill: #ff7b72; }
+    .l { opacity: 0; animation: vis 0.01s linear forwards; }
+    .t { clip-path: inset(0 100% 0 0); animation: skriv 0.7s steps(12, end) forwards; }
+    .c { animation: blink 1s step-end infinite; }
+    @keyframes vis { to { opacity: 1; } }
+    @keyframes skriv { to { clip-path: inset(0 0 0 0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .l, .t { animation: none; opacity: 1; clip-path: none; } .c { animation: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="759" height="351" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0.5 36 H759.5" stroke="#21262d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
+  <text x="380" y="23" text-anchor="middle" class="d" style="font-size:12px">henrik@aalesund: ~</text>
+
+  <g class="l" style="animation-delay:.2s"><text x="24" y="68" textLength="152" lengthAdjust="spacingAndGlyphs"><tspan class="p">henrik@aalesund</tspan><tspan class="d"> ~ %</tspan></text></g>
+  <g class="t" style="animation-delay:.3s"><text x="184" y="68">whoami</text></g>
+  <g class="l" style="animation-delay:1.1s"><text x="24" y="92"><tspan class="b">Henrik Hovland Hagerup</tspan><tspan class="m"> · full-stack developer · Ålesund, Norway</tspan></text></g>
+
+  <g class="l" style="animation-delay:1.5s"><text x="24" y="128" textLength="152" lengthAdjust="spacingAndGlyphs"><tspan class="p">henrik@aalesund</tspan><tspan class="d"> ~ %</tspan></text></g>
+  <g class="t" style="animation-delay:1.6s"><text x="184" y="128">cat now.md</text></g>
+  <g class="l" style="animation-delay:2.4s"><text x="24" y="152"><tspan class="a">→</tspan> building <tspan class="b">henami</tspan>: budget, calendar, training, food and travel in one app</text></g>
+  <g class="l" style="animation-delay:2.55s"><text x="24" y="174"><tspan class="a">→</tspan> live on the web, iOS app in TestFlight on its way to the App Store</text></g>
+  <g class="l" style="animation-delay:2.7s"><text x="24" y="196"><tspan class="a">→</tspan> this month: friends, profiles and sharing inside henami</text></g>
+  <g class="l" style="animation-delay:2.85s"><text x="24" y="218"><tspan class="a">→</tspan> on the side: <tspan class="b">henami-map</tspan>, a map library with zero dependencies</text></g>
+
+  <g class="l" style="animation-delay:3.3s"><text x="24" y="254" textLength="152" lengthAdjust="spacingAndGlyphs"><tspan class="p">henrik@aalesund</tspan><tspan class="d"> ~ %</tspan></text></g>
+  <g class="t" style="animation-delay:3.4s"><text x="184" y="254">ls ~/stack</text></g>
+  <g class="l" style="animation-delay:4.2s"><text x="24" y="278"><tspan class="k1">typescript</tspan>  <tspan class="k3">javascript</tspan>  <tspan class="k1">react</tspan>  <tspan class="k4">react-native</tspan>  <tspan class="m">expo</tspan>  <tspan class="k2">supabase</tspan></text></g>
+  <g class="l" style="animation-delay:4.3s"><text x="24" y="300"><tspan class="k1">postgres</tspan>  <tspan class="m">vercel</tspan>  <tspan class="k3">python</tspan>  <tspan class="k5">java</tspan>  <tspan class="k4">vite</tspan>  <tspan class="k1">tailwind</tspan></text></g>
+
+  <g class="l" style="animation-delay:4.7s"><text x="24" y="334" textLength="152" lengthAdjust="spacingAndGlyphs"><tspan class="p">henrik@aalesund</tspan><tspan class="d"> ~ %</tspan></text><rect class="c" x="184" y="321" width="9" height="17" fill="#a371f7"/></g>
+</svg>
